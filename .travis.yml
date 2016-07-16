@@ -1,3 +1,3 @@
 language: cpp
 compiler: g++
-
+build: gcc ./src/shop.cpp
